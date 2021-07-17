@@ -33,6 +33,8 @@ There are cases where the our plugin will be necessary:
 Our plugin can restore the classic widget screen with just one click.
 There is no other configuration, the classic widgets settings screens are enabled or disabled by either enabling or disabling this plugin.
 
+<a href="https://classicwidgets.com">Classic Widgets Plugin Site</a> 
+
 Thes feature (restore classic widget) is available also in our WP Tools free plugin with 21 other useful tools:
 <a href="https://wordpress.org/plugins/wptools/">WP Tools Free Plugin</a> 
 
