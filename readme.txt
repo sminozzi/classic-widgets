@@ -1,5 +1,4 @@
-=== Restore and Enable Classic Widgets No Expiration ===
-
+# WordPress Restore and Enable Classic Widgets No Expiration Plugin #
 Plugin Name: Restore Classic Widgets
 Plugin URI: https://BillMinozzi.com/support/
 Description: Restore and enable the previous classic widgets settings screens and disables the Gutenberg block editor from managing widgets.
