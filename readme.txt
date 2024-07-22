@@ -41,8 +41,14 @@ By undoing WordPress widget block editor update, our plugin ensures that users c
 
 Whether your issue is legacy widget missing or you're wondering how to find an old widget in WordPress, our plugin provides the answers. It resolves common problems like why are my widgets not showing up in WordPress and offers straightforward steps to restore classic widgets to WordPress. For those asking how do I restore a widget in WordPress or facing widgets not showing up, our plugin ensures a quick and reliable solution.
 
+<<<<<<< HEAD
 In summary, our WordPress plugin to switch back to classic widgets addresses the needs of users who value simplicity, compatibility, and reliability in managing their WordPress widgets. Install it today to get old WordPress widget interface back and maintain the functionality you prefer.
 This feature (restore classic widget) is available also in our WP Tools free plugin with 35 other useful tools:
+=======
+<a href="https://classicwidgets.com">Classic Widgets Plugin Site</a> 
+
+Thes feature (restore classic widget) is available also in our WP Tools free plugin with 21 other useful tools:
+>>>>>>> 3f0bbe631afe77a336580f9a6848295a44c8d444
 <a href="https://wordpress.org/plugins/wptools/">WP Tools Free Plugin</a> 
 
 == Important ==
